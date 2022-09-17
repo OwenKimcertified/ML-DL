@@ -13,6 +13,11 @@
 
 다중 vs 다항
 
+2022/ 9 / 18
+
+Logistic Regression
+
+
 ### Classifier
 
 2022/ 9 / 17
