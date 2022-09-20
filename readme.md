@@ -13,11 +13,6 @@
 
 다중 vs 다항
 
-2022/ 9 / 18
-
-Logistic Regression
-
-
 ### Classifier
 
 2022/ 9 / 17
@@ -29,3 +24,7 @@ DT(DecisonTree)결정나무, DT가 모여서 Randomforest
 Boosting 개념 
 
 XGB, LGBM 파라미터 
+
+2022/ 9 / 18
+
+Logistic Regression
