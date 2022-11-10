@@ -1,7 +1,4 @@
-### Machine Learning
-
-공부한 내용들을 정리
-
+# Machine Learning
 
 ### Regressor
 
@@ -29,7 +26,7 @@ XGB, LGBM 파라미터
 
 Logistic Regression
 
-### Deep Learning
+# Deep Learning
 
 순환 신경망 순전파 역전파 비용함수 전반적인 흐름
 
