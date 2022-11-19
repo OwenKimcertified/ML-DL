@@ -28,10 +28,10 @@ Logistic Regression
 
 # Deep Learning
 
+2022 / 11 / 19
+
 순환 신경망 순전파 역전파 비용함수 전반적인 흐름
 
 기울기, 입력신호, 활성화 정도, 편향
 
-iteration, epochs
 
-업데이트 예정
