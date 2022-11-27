@@ -36,11 +36,11 @@ ANN __순전파__ __역전파__ 비용함수 전반적인 흐름
 
 완료.
 
+### CV 
+
 2022 / 11 / 27
 
-CV segmentation 
-
-u-net architecture (pytorch) 학습 실패... 재도전 해야...
+u-net architecture (pytorch) with tensorboard
 
 pytorch transforms 클래스 제작 
 
