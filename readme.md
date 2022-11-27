@@ -32,6 +32,12 @@ Logistic Regression
 
 ANN __순전파__ __역전파__ 비용함수 전반적인 흐름
 
-기울기, 입력신호, 활성화 정도, 편향
+기울기, 입력신호, 활성화 정도, 편향 # 실수로 삭제했는데 파일이 컴퓨터에 없어서.. 다시 업로드하겠습니다.. ㅠㅠ 
+
+2022 / 11 / 27
+
+CV segmentation 
+
+u-net architecture (pytorch)
 
 
